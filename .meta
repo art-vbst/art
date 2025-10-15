@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "art-django": "git@github.com:art-vbst/art-django.git",
+    "art-backend": "git@github.com:art-vbst/art-backend.git",
+    "art-frontend": "git@github.com:art-vbst/art-frontend.git"
+  }
+}
