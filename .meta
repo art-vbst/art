@@ -2,6 +2,7 @@
   "projects": {
     "django": "git@github.com:art-vbst/art-django.git",
     "backend": "git@github.com:art-vbst/art-backend.git",
-    "frontend": "git@github.com:art-vbst/art-frontend.git"
+    "frontend": "git@github.com:art-vbst/art-frontend.git",
+    "github": "git@github.com:art-vbst/.github.git"
   }
 }
