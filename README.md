@@ -15,9 +15,3 @@ Clone all sub-repositories:
 ```bash
 meta git update
 ```
-
-## Sub-repositories
-
-- `art-django` - Django backend (legacy)
-- `art-backend` - Go backend
-- `art-frontend` - React frontend
