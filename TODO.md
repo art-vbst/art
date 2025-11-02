@@ -63,6 +63,7 @@ Gap assessment as of 10/31/2025.
 
 ## Future
 
+- order status/shipping updates
 - admin site bulk actions
 - Prints
   - image processing, scaling up/down, watermark
