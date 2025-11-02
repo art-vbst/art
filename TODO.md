@@ -60,5 +60,10 @@ Gap assessment as of 10/31/2025.
 - [ ] GCP billing setup
 - [ ] data migration
 - [ ] take down vps
-- [ ] start thinking about Prints
-  - included: image processing for scaling up/down images
+
+## Future
+
+- admin site bulk actions
+- Prints
+  - image processing, scaling up/down, watermark
+  - automated fulfillment
