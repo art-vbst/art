@@ -4,25 +4,27 @@ Gap assessment as of 10/31/2025.
 
 ## Admin
 
-- [ ] Art CRUD
-  - [ ] Update
-  - [ ] Delete
+- [x] Art CRUD
+  - [x] Update
+  - [x] Delete
 - [ ] Images CRUD
-  - [ ] create
+  - [x] create
   - [ ] update
   - [ ] delete
 - [ ] Orders Read-only
   - [ ] list
   - [ ] detail
-- [ ] Form validation (esp. numeric inputs)
+- [x] Form validation (esp. numeric inputs)
 - [ ] Code cleanup
 
 ## Backend
 
 - [ ] Endpoints
-  - [ ] Art Update
-  - [ ] Art Delete
+  - [x] Art Update
+  - [x] Art Delete
   - [ ] Image Create w/ "primary" logic and GCS upload
+    - [x] gcs upload
+    - [ ] main image logic
   - [ ] Image Update w/ "primary" logic
   - [ ] Image Delete with GCS delete
   - [ ] Orders list
@@ -30,6 +32,10 @@ Gap assessment as of 10/31/2025.
 - [ ] Logging / error handling
 - [ ] Write tests
 - [ ] Code cleanup
+- [ ] Code hardening
+  - [ ] gcs client connection, ensure doesn't slow down rest of application
+  - [ ] monitoring for errors and usage
+  - [ ] ai audit
 
 ## Frontend
 
@@ -38,7 +44,7 @@ Gap assessment as of 10/31/2025.
   - [ ] navbar
   - [ ] sitewide styles
   - [ ] About page
-    - consider "about" model
+    - [ ] consider "about" model
 - [ ] Order return page?
 
 ## Types
@@ -47,8 +53,12 @@ Gap assessment as of 10/31/2025.
 
 ## General
 
+- [ ] Deployment
+  - [ ] domain setup
+  - [ ] neon prod db setup and optimized config
+  - [ ] automated deployments for stage/prod, consider "release" git tags
 - [ ] GCP billing setup
-- [ ] stage vs prod CI
-  - consider "release" git tags
+- [ ] data migration
+- [ ] take down vps
 - [ ] start thinking about Prints
   - included: image processing for scaling up/down images
