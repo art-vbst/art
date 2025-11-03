@@ -46,6 +46,7 @@ Gap assessment as of 10/31/2025.
   - [ ] About page
     - [ ] consider "about" model
 - [ ] Order return page?
+- [ ] Optimistic UI instead of loading spinner
 
 ## Types
 
