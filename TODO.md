@@ -7,28 +7,28 @@ Gap assessment as of 10/31/2025.
 - [x] Art CRUD
   - [x] Update
   - [x] Delete
-- [ ] Images CRUD
+- [x] Images CRUD
   - [x] create
-  - [ ] update
-  - [ ] delete
-- [ ] Orders Read-only
-  - [ ] list
-  - [ ] detail
+  - [x] update
+  - [x] delete
+- [x] Orders Read-only
+  - [x] list
+  - [x] detail
 - [x] Form validation (esp. numeric inputs)
-- [ ] Code cleanup
+- [x] Code cleanup
 
 ## Backend
 
-- [ ] Endpoints
+- [x] Endpoints
   - [x] Art Update
   - [x] Art Delete
-  - [ ] Image Create w/ "primary" logic and GCS upload
+  - [x] Image Create w/ "primary" logic and GCS upload
     - [x] gcs upload
-    - [ ] main image logic
-  - [ ] Image Update w/ "primary" logic
-  - [ ] Image Delete with GCS delete
-  - [ ] Orders list
-  - [ ] Orders detail
+    - [x] main image logic
+  - [x] Image Update w/ "primary" logic
+  - [x] Image Delete with GCS delete
+  - [x] Orders list
+  - [x] Orders detail
 - [ ] Logging / error handling
 - [ ] Write tests
 - [ ] Code cleanup
