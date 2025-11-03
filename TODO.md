@@ -29,6 +29,7 @@ Gap assessment as of 10/31/2025.
   - [x] Image Delete with GCS delete
   - [x] Orders list
   - [x] Orders detail
+- [ ] Drop GCP SDK for API imp
 - [ ] Logging / error handling
 - [ ] Write tests
 - [ ] Code cleanup
