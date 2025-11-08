@@ -29,12 +29,11 @@ Gap assessment as of 10/31/2025.
   - [x] Image Delete with GCS delete
   - [x] Orders list
   - [x] Orders detail
-- [ ] Drop GCP SDK for API imp
+- [x] Drop GCP SDK for API imp
 - [ ] Logging / error handling
 - [ ] Write tests
 - [ ] Code cleanup
 - [ ] Code hardening
-  - [ ] gcs client connection, ensure doesn't slow down rest of application
   - [ ] monitoring for errors and usage
   - [ ] ai audit
 
@@ -45,22 +44,22 @@ Gap assessment as of 10/31/2025.
   - [ ] navbar
   - [ ] sitewide styles
   - [ ] About page
-    - [ ] consider "about" model
-- [ ] Order return page?
+    - [x] consider "about" model
+- [x] Order return page?
 - [ ] Optimistic UI instead of loading spinner
 
 ## Types
 
-- [ ] Ensure perfectly up-to-date as implementation settles
+- [x] Ensure perfectly up-to-date as implementation settles
 
 ## General
 
-- [ ] Deployment
-  - [ ] domain setup
-  - [ ] neon prod db setup and optimized config
-  - [ ] automated deployments for stage/prod, consider "release" git tags
+- [x] Deployment
+  - [x] domain setup
+  - [x] neon prod db setup and optimized config
+  - [x] automated deployments for stage/prod, consider "release" git tags
 - [ ] GCP billing setup
-- [ ] data migration
+- [x] data migration
 - [ ] take down vps
 
 ## Future
